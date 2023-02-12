@@ -1,6 +1,6 @@
 import Head from 'next/head'
-import Sidebar from "@/components/Sidebar";
-import Chat from "@/components/Chat";
+import Sidebar from "@/components/sidebar/Sidebar";
+import Chat from "@/components/chat/Chat";
 export default function Home() {
   return (
     <>
